@@ -1,0 +1,11 @@
+trial_id,condition,inclusion_criteria,exclusion_criteria,location
+CT001,Diabetes,"age > 40; has diabetes","heart disease",New York
+CT002,Hypertension,"age > 30; blood pressure > 140","pregnant",San Francisco
+CT003,Asthma,"age < 60; has asthma","smoker",Chicago
+CT004,Heart Disease,"age > 50; heart disease","diabetes",Boston
+CT005,Kidney Disease,"age > 60; kidney disease","pregnant",New York
+CT006,Asthma,"age > 35; has asthma","cancer",Los Angeles
+CT007,Cancer,"age > 45; cancer survivor","anemia",Houston
+CT008,Hypertension,"age > 25; hypertension","heart disease",Chicago
+CT009,Pregnancy Study,"age < 35; pregnant","hypertension",Dallas
+CT010,Diabetes,"age > 65; diabetes","kidney disease",Miami

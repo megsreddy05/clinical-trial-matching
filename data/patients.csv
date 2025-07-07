@@ -1,0 +1,11 @@
+patient_id,age,conditions,location
+P001,45,"diabetes, hypertension",New York
+P002,29,"asthma",Chicago
+P003,50,"heart disease",Boston
+P004,33,"hypertension, smoker",San Francisco
+P005,65,"diabetes, kidney disease",New York
+P006,42,"asthma, smoker",Los Angeles
+P007,38,"hypertension",Chicago
+P008,52,"cancer survivor",Houston
+P009,26,"pregnant, anemia",Dallas
+P010,70,"heart disease, diabetes",Miami
